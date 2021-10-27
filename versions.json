@@ -1,0 +1,28 @@
+[{
+		"product": "Applied.WorkerPal",
+		"uuid": "00042717-b3c0-4863-88c8-a8676e6246d0",
+		"versions": [{
+				"version": "1.0.0",
+				"change_log": "initial release",
+				"release_date": "20211027164500",
+				"binaries_location": "\\\\amat.com\\Folders\\IsraelPD-Q-DriveSWData\\NissimT\\Utils\\Applied.WorkPal\\release\\v1.0.0"
+			},
+			{
+				"version": "1.0.1",
+				"change_log": "secondary release\ndoing stuff",
+				"release_date": "20211027170000",
+				"binaries_location": "\\\\amat.com\\Folders\\IsraelPD-Q-DriveSWData\\NissimT\\Utils\\Applied.WorkPal\\release\\v1.0.1"
+			}
+		]
+	},
+	{
+		"product": "Amat.Dev.QuickActions",
+		"uuid": "00142717-b3c0-4863-88c8-a8676e6246d0",
+		"versions": [{
+			"version": "1.0.0",
+			"change_log": "initial release",
+			"release_date": "20211027164500",
+			"binaries_location": "\\\\amat.com\\Folders\\IsraelPD-Q-DriveSWData\\NissimT\\Amat.Dev.QuickActions\\release\\v1.0.0"
+		}]
+	}
+]
